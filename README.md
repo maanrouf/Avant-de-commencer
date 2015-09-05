@@ -12,6 +12,6 @@ Le dépôt **CV** contient:
 
 Les autres dépôts contiennent les fils rouges du mooc.
 
-Jusqu'ici, j'ai confondu le vocabulaire "_pusher_" avec "_gist_". Donc au lieu de pusher, j'ai gister mais la léçon est apprise et j'espère ne plus commetre cet erreur d'inattention. 
+Jusqu'ici, j'ai confondu le vocabulaire "_pusher_" avec "_gist_". Donc au lieu de faire (git push) pusher, j'ai gister mais la léçon est apprise et j'espère ne plus commetre cet erreur d'inattention. :-)
 
 Merci !
